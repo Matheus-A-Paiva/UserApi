@@ -1,0 +1,43 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# EF Core
+*.db
+
+# Docker
+docker-compose.override.yml
+
+# ASP.NET
+appsettings.Development.json
+
+# NuGet
+*.nupkg
+packages/
+
+# Publish
+publish/
